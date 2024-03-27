@@ -1,7 +1,4 @@
 /* your code */
-table{
-	border-radius:10px;
-}
 table,td,th{
 	border-collapse:collapse;
 	border:1px solid black;
